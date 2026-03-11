@@ -16,6 +16,9 @@
 
 ## Overview
 
+<img width="844" height="262" alt="image" src="https://github.com/user-attachments/assets/b2c2b635-72e2-49f0-8d6c-0c8eca7d74b2" />
+
+
 This pipeline implements the **Medallion Architecture** (also known as Delta Lake Architecture) for a retail e-commerce data engineering project. The architecture consists of three layers:
 
 - **Bronze Layer**: Raw, unprocessed data as-is from source systems
