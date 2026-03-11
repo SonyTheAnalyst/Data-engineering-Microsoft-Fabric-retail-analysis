@@ -24,6 +24,7 @@ This pipeline implements the **Medallion Architecture** (also known as Delta Lak
 - **Bronze Layer**: Raw, unprocessed data as-is from source systems
 - **Silver Layer**: Cleaned, standardized, and validated data
 - **Gold Layer**: Aggregated, business-ready analytics and KPIs
+<img width="508" height="577" alt="image" src="https://github.com/user-attachments/assets/b804e18a-dc92-4b47-bf92-fea1085c180d" />
 
 This design enables:
 - ✅ Data quality improvements at each stage
